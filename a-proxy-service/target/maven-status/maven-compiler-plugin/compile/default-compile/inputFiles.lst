@@ -1,0 +1,12 @@
+/home/sab/Téléchargements/Projet-usine-logicielle-microservices-master/a-proxy-service/src/main/java/org/opendevup/clients/diplomeClient.java
+/home/sab/Téléchargements/Projet-usine-logicielle-microservices-master/a-proxy-service/src/main/java/org/opendevup/clients/FeignExample.java
+/home/sab/Téléchargements/Projet-usine-logicielle-microservices-master/a-proxy-service/src/main/java/org/opendevup/clients/enseignantClient.java
+/home/sab/Téléchargements/Projet-usine-logicielle-microservices-master/a-proxy-service/src/main/java/org/opendevup/clients/IntegrationClient.java
+/home/sab/Téléchargements/Projet-usine-logicielle-microservices-master/a-proxy-service/src/main/java/org/opendevup/entities/Enseignant.java
+/home/sab/Téléchargements/Projet-usine-logicielle-microservices-master/a-proxy-service/src/main/java/org/opendevup/restcontroller/ProxyGatewayRestService.java
+/home/sab/Téléchargements/Projet-usine-logicielle-microservices-master/a-proxy-service/src/main/java/org/opendevup/entities/proxy.java
+/home/sab/Téléchargements/Projet-usine-logicielle-microservices-master/a-proxy-service/src/main/java/org/opendevup/clients/serviceClient.java
+/home/sab/Téléchargements/Projet-usine-logicielle-microservices-master/a-proxy-service/src/main/java/org/opendevup/AProxyServiceApplication.java
+/home/sab/Téléchargements/Projet-usine-logicielle-microservices-master/a-proxy-service/src/main/java/org/opendevup/entities/Service.java
+/home/sab/Téléchargements/Projet-usine-logicielle-microservices-master/a-proxy-service/src/main/java/org/opendevup/entities/Diplome.java
+/home/sab/Téléchargements/Projet-usine-logicielle-microservices-master/a-proxy-service/src/main/java/org/opendevup/swagger/SwaggerConfig.java
